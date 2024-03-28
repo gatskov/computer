@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/COMPUTER.dir/main.cpp.o CMakeFiles/COMPUTER.dir/my_comp.cpp.o -o COMPUTER 

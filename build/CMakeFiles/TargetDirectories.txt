@@ -1,0 +1,5 @@
+/home/vg/VScode/COMPUTER/build/CMakeFiles/edit_cache.dir
+/home/vg/VScode/COMPUTER/build/CMakeFiles/rebuild_cache.dir
+/home/vg/VScode/COMPUTER/build/src/CMakeFiles/COMPUTER.dir
+/home/vg/VScode/COMPUTER/build/src/CMakeFiles/edit_cache.dir
+/home/vg/VScode/COMPUTER/build/src/CMakeFiles/rebuild_cache.dir
